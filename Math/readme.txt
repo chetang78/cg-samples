@@ -1,4 +1,8 @@
+Once it is converted to maven project please clean up the cold classes files stored in : 
+classes folder under C:\chetan\Learn\git\cg-samples\Math\WebContent  (otherwise the older files are picked up)
+
 fixes for POM .. repo
+
 
 <repositories>
  <repository>
